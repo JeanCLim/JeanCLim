@@ -20,9 +20,26 @@
  <li> Pode me perguntar sobre <strong>Games e Tecnologia</strong></li>
 </ul>
 
-<h3 align="center"> Linguagens e Ferramentas</h3>
+<h3 align="center">Linguagens e Ferramentas</h3>
+
+<h4 align="center">Frontend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,laravel,python,java,mysql,postgres,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</p>
+
+<h4 align="center">Backend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,java&theme=dark" />
+</p>
+
+<h4 align="center">Database</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+</p>
+
+<h4 align="center">Infraestrutura</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
 </p>
 
 <br>
