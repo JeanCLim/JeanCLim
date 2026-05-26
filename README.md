@@ -22,7 +22,7 @@
 
 <h3 align="center"> Linguagens e Ferramentas</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,laravel,python,java,mysql,postgres,docker&theme=dark" />
 </p>
 
 <br>
